@@ -1,2 +1,3 @@
-usuario=admin
-password=12345_Secreto
+usuario=
+password=
+todo borrado
